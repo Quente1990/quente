@@ -11,6 +11,6 @@ st.write("""
 #ohne sidebar in der Mitte
 x = st.slider('wie viel Spaß werden wir heute haben?')  
 st.write(x, 'In Koffenheiten:', x * x)
-st.image('Niklas.jpg')
+st.image('Niklas.jpg', width= 100)
 
 st.write('Deine Freunde Andre, Annie, Nina, Marco, Max, Lenni, Sarah und Clemens :)')
