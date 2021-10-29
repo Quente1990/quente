@@ -14,4 +14,4 @@ st.write(x, 'In Koffenheiten:', x * x)
 
 
 
-st.write('Deine Freunde Andre, Annie, Nina, Marco, Max, Sarah und Clemens :)')
+st.write('Deine Freunde Andre, Annie, Nina, Marco, Max, Lenni, Sarah und Clemens :)')
