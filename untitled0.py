@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 
-enableCORS = False
 
 st.write("""
          # Alles alles gute zum Geburtstag Niklas!!      
